@@ -1,0 +1,12 @@
+{
+  "model": "RandomForest_calibrated",
+  "test_accuracy": 1.0,
+  "test_precision": 1.0,
+  "test_recall": 1.0,
+  "test_f1": 1.0,
+  "best_params": {
+    "clf__max_depth": 5,
+    "clf__min_samples_split": 2,
+    "clf__n_estimators": 100
+  }
+}
