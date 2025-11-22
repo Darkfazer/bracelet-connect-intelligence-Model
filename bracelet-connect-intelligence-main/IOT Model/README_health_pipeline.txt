@@ -1,0 +1,1 @@
+health_alert_pipeline.pkl saved. Load with joblib.load and call predict on a DataFrame with columns ['heartRate','spo2','temperature'].\n
